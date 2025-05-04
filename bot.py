@@ -110,3 +110,5 @@ async def kup_dzialke(ctx, nazwa: str):
     except Exception as e:
         print(e)
         await ctx.send("Błąd komunikacji z serwerem.")
+
+bot.run(MTM2NzkxOTEyMTgxOTUwNDcwMQ.GGh6YV.Hkpx3m715lwMLWhZTWeA3SB_SQqpndxzJtJOko)
